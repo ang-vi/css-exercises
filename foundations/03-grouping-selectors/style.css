@@ -1,0 +1,16 @@
+.black-on-white {
+    background-color: black;
+    color: white;
+}
+
+.yellow-on-black{
+    background-color: yellow;
+    color: black;
+}
+
+.black-on-white,
+.yellow-on-black {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
